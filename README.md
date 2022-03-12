@@ -1,3 +1,3 @@
 - 👋 Hi, My name is Fernando
 - 🌱 I’m currently learning JavaScript 
-- 📫 About me, I'm a programming student i like much FronEnd and i have 13 years!
+- 📫 About me, I'm a programming student i like much FronEnd.

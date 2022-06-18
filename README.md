@@ -1,3 +1,3 @@
 - 👋 Hi, My name is Fernando
-- 🌱 I’m currently learning JavaScript 
+- 🌱 I’m currently learning NextJS 
 - 📫 About me, I'm a programming student i like much FronEnd.

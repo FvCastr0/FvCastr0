@@ -1,3 +1,0 @@
-- 👋 Hi, My name is Fernando
-- 🌱 I’m currently learning FrontEnd
-- 📫 About me, I'm a programming student i like much FronEnd.
